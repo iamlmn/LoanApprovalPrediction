@@ -1,18 +1,18 @@
 # LoanApprovalPrediction
 
-##Predicting loan approval status using Machine Learning algorithms.
+## Predicting loan approval status using Machine Learning algorithms.
 
 >Features/Attributes considered :
 
-贩*Loan_ID
-贩*Gender
-贩*Married
-贩*Dependents
-贩*Education
-贩*Self_Employed
-贩*ApplicantIncome
-贩*CoapplicantIncome
-贩*LoanAmount
-贩*Loan_Amount_Term
-贩*Credit_History
-贩*Property_Area
+*Loan_ID
+*Gender
+路路*Married
+路路*Dependents
+路路*Education
+路路*Self_Employed
+路路*ApplicantIncome
+路路*CoapplicantIncome
+路路*LoanAmount
+路路*Loan_Amount_Term
+路路*Credit_History
+路路*Property_Area
