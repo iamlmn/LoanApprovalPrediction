@@ -2,9 +2,9 @@
 
 ## Predicting loan approval status using Machine Learning algorithms.
 
->Features/Attributes considered :
+> ### Features/Attributes considered :
 
->>Loan_ID
+* Loan_ID
 * Gender
 * Married
 * Dependents
